@@ -1,6 +1,6 @@
 ## LetStuffGo project
 
-This is the code base of the GDSD team G6 project, LetStuffGo
+This is the code base for LetStuffGo project
 
 ## License
 
